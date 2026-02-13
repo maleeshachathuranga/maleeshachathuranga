@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to Maleesha Chathuranga's Repository
 
-<!--
-**maleeshachathuranga/maleeshachathuranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Badges](https://img.shields.io/badge/Status-Active-brightgreen) ![Badges](https://img.shields.io/badge/Version-1.0-blue)
 
-Here are some ideas to get you started:
+## About Me
+Hi! I'm **Maleesha Chathuranga**, a passionate developer with a love for creating unique and engaging experiences in the digital world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨ Features
+- Beautiful gradient text for a modern look
+- Animated badges to showcase project status
+- ASCII art to give character to the README
+
+```plaintext
+   .--.
+  |o_o |
+  |:_/ |
+ //   \ \ 
+(|     | )
+/_|_   |_|
+``` 
+
+## Installation
+To get started with this project, clone the repository:
+```bash
+git clone https://github.com/maleeshachathuranga/maleeshachathuranga.git
+```
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Created on 2026-02-13 06:12:53 UTC*
